@@ -1,0 +1,16 @@
+.react-datepicker {
+  border: 1px solid #F0F0F0;
+  display: inline-block;
+  position: relative;
+}
+
+.react-datepicker__input-container input {
+  border: 1px solid #E8E8E8;
+  width: 245px;
+  height: 30px;
+  margin: 10px 0px;
+}
+
+.react-datepicker__input-container:first-of-type {
+  margin-right: 5px;
+}
